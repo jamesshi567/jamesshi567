@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+My name is James and I am a biochemistry student at the University of Toronto.
 
 <!--
 **jamesshi567/jamesshi567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
